@@ -13,3 +13,7 @@ Ini adalah cara membuat dokumen baru dan hasil nya
 Kemudian tambahkan  deklarasi CSS internal seperti berikut pada bagian head dokumen dan hasil nya.
 
 ![Lab2web](img/mendeklarasi%20CSS%20Internal.PNG)
+
+## 3. Menambahkan Inline CSS
+ini adalah hasil menambahkan Inline CSS.
+![Lab2web](img/menambahkan%20Inline%20CSS.PNG)

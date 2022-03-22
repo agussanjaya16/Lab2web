@@ -21,3 +21,7 @@ ini adalah hasil menambahkan Inline CSS.
 ## 4. Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS dan ini adalah hasilnya seperti berikut.
 ![Lab2web](img/membuat%20css%20eksternal.PNG)
+
+## 5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS selector menggunakan ID dan Class selector. Pada file style_eksternal.css dan ini adalah hasilnya seperti berikut.
+![Lab2web](img/menambahkan%20css%20selector.PNG)

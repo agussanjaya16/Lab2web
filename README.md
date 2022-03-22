@@ -17,3 +17,7 @@ Kemudian tambahkan  deklarasi CSS internal seperti berikut pada bagian head doku
 ## 3. Menambahkan Inline CSS
 ini adalah hasil menambahkan Inline CSS.
 ![Lab2web](img/menambahkan%20Inline%20CSS.PNG)
+
+## 4. Membuat CSS Eksternal
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS dan ini adalah hasilnya seperti berikut.
+![Lab2web](img/membuat%20css%20eksternal.PNG)

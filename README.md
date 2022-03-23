@@ -25,9 +25,9 @@ Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS
 ## 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS selector menggunakan ID dan Class selector. Pada file style_eksternal.css dan ini adalah hasilnya seperti berikut.
 ![Lab2web](img/menambahkan%20css%20selector.PNG)
- <hr>
 
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+### Pertanyaan dan tugas 
+1. eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
@@ -37,3 +37,8 @@ penjelasan dan contohnya!
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> 
+
+### Jawaban
+ 1. Saya akan mengubah dan menambah properti dan nilai pada kode CSS, dimulai dari membuat kerangka htmlnya. Seperti gambar berikut : Kemudian membuat CSSnya dengan menambahkan nilai dan properti pada kode diatas Disini Saya menambahkan 4 pemilih kedalam CSS, diantaranya body, h2, .avatar, .header-profile. Masing-masing memiliki fungsi untuk mengatur tampilan pada HTML
+
+ ![Lab2web](img/jawaban%20no1.PNG)
